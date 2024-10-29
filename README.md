@@ -5,7 +5,7 @@
 
 - 🤝 Quiero estudiar **Ruby, Swift, Go**
 
-- 📫 How to reach me **castrorodriguezjosue@gmail.com**
+- 📫 Como contactar conmigo **castrorodriguezjosue@gmail.com**
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
