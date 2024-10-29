@@ -57,7 +57,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://www.freepik.es/fotos-vectores-gratis/fondo-minimalista-negro" alt="Banner" width="600"/>
-</p>
