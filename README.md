@@ -1,8 +1,8 @@
 <h1 align="center">Hola 👋, soy Josue Castro</h1>
 <h3 align="center">Programador Full-Stack</h3>
 
-- 🔭 Estudiando **Symfony**
-- 🌱 Próximos lenguajes: **Ruby, Swift, Go**
+- 🔭 Estudiando **React**
+- 🌱 Próximos proyectos: **Web de venta Angular+Laravel+APP Java/Springboot**
 - 📫 Contacto: **castrorodriguezjosue@gmail.com**
 
 ---
@@ -49,10 +49,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://symfony.com/logos/symfony_black_03.svg" alt="Symfony" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
